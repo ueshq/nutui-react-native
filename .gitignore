@@ -11,10 +11,6 @@ site_docs
 # XDE
 .expo/
 
-# VSCode
-.vscode/
-jsconfig.json
-
 # Xcode
 #
 build/
